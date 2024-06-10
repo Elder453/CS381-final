@@ -1,0 +1,18 @@
+# Standard PyPI packages with versions
+datasets==2.19.1
+einops==0.8.0
+fancy_einsum==0.0.3
+ipython==8.12.3
+matplotlib==3.7.1
+numpy==1.25.2
+pandas==2.0.3
+plotly==5.15.0
+protobuf==3.20.3
+torch==2.1.2
+tqdm==4.66.4
+transformer_lens==1.17.0
+transformers==4.40.2
+
+# Special installations
+kaleido==0.2.1
+git+https://github.com/neelnanda-io/neel-plotly.git
